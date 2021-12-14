@@ -2,13 +2,21 @@
 
 - In this project, I have used tensorflow and keras to build train and test a convolutional nueral network to predict dog breed.
 
-### Accuracy Graph
+<div>
+<center>
 
-![Graph Image](./rec/graph.png)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+</center>
+</div>
 
-### Output
+<center>
 
-![Output Image](./rec/output.png)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+</center>
 
 ## Steps to build project
 
@@ -26,3 +34,11 @@
 ## NOTE: If you have Ananconda installed then you will not need requirements.txt because anaconda comes will preinstalled pachages
 
 ## NOTE: This project will take about 1 hour to run Depends on your computer
+
+### Accuracy Graph
+
+![Graph Image](./rec/graph.png)
+
+### Output
+
+![Output Image](./rec/output.png)
